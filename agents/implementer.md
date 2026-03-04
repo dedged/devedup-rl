@@ -4,7 +4,7 @@ description: >
   Implementation agent that writes production-quality TypeScript code following TDD.
   Use to implement features from specs. Always writes tests first, then
   implementation. Follows project patterns and coding standards.
-model: sonnet
+model: opus
 tools: Read, Write, Edit, Bash, Grep, Glob
 maxTurns: 50
 permissionMode: acceptEdits

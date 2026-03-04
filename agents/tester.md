@@ -4,7 +4,7 @@ description: >
   Testing specialist that writes comprehensive test suites, performs fuzz testing,
   and validates edge cases. Use to improve test coverage, add fuzz tests, write
   integration tests, or audit existing test quality.
-model: sonnet
+model: opus
 tools: Read, Write, Edit, Bash, Grep, Glob
 maxTurns: 40
 permissionMode: acceptEdits
