@@ -1,8 +1,7 @@
 {
   "name": "devedup-rl",
   "owner": {
-    "name": "dedge",
-    "url": "https://github.com/dedged/devedup-rl"
+    "name": "dedge"
   },
   "plugins": [
     {
