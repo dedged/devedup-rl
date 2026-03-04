@@ -4,7 +4,7 @@ description: >
   Code review agent that analyzes code for quality, security, performance,
   and adherence to project standards. Use before creating PRs or when you
   want a second opinion on implementation quality.
-model: sonnet
+model: opus
 tools: Read, Grep, Glob, Bash
 disallowedTools: Write, Edit
 maxTurns: 30
